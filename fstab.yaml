@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p46206-e1733317.adobeaemcloud.com//bin/franklin.delivery/mveerkapoor/workshop-boilerplate/main
+    url: https://author-p112856-e1108091.adobeaemcloud.com//bin/franklin.delivery/mveerkapoor/workshop-boilerplate/main
     type: "markup"
     suffix: ".html"
